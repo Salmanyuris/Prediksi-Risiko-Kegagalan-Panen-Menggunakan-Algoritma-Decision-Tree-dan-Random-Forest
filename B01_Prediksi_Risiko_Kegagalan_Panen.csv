@@ -1,0 +1,501 @@
+﻿Jenis_Komoditas,Luas_Lahan_ha,Jenis_Tanah,pH_Tanah,Curah_Hujan_mm_bulan,Suhu_Rata_Rata_C,Kelembapan_Udara_persen,Ketersediaan_Irigasi,Kualitas_Benih,Frekuensi_Pemupukan_per_musim,Penggunaan_Pestisida,Serangan_Hama,Serangan_Penyakit,Pengalaman_Petani_tahun,Status_Risiko_Panen
+Padi,1.22,Aluvial,6.0,298.9,26.1,40.0,Terbatas,Sedang,0.0,Tidak Sesuai,Ringan,Ringan,7.0,Tidak Berisiko
+Cabai,2.2,Andosol,7.4,275.9,27.3,49.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Ringan,Sedang,12.0,Tidak Berisiko
+Jagung,2.33,Andosol,6.4,35.0,28.1,52.0,Memadai,Unggul,1.0,Tidak Menggunakan,Tidak Ada,Ringan,20.0,Berisiko Gagal Panen
+Cabai,1.82,Regosol,7.9,,30.0,44.0,Terbatas,Sedang,7.0,Sesuai Anjuran,Sedang,Ringan,20.0,Tidak Berisiko
+Kedelai,0.98,Aluvial,7.5,147.4,23.5,87.0,Terbatas,Unggul,1.0,Tidak Sesuai,Tidak Ada,Ringan,31.0,Tidak Berisiko
+Padi,0.97,Latosol,7.6,69.7,27.2,50.0,Memadai,Unggul,0.0,Tidak Sesuai,Ringan,Sedang,17.0,Tidak Berisiko
+Jagung,3.89,Andosol,6.7,378.8,25.7,81.0,Memadai,Unggul,6.0,Sesuai Anjuran,Ringan,Sedang,16.0,Tidak Berisiko
+Bawang Merah,1.83,Aluvial,6.7,230.9,23.4,76.0,Tidak Ada,Sedang,4.0,Tidak Sesuai,Ringan,Tidak Ada,36.0,Tidak Berisiko
+Kedelai,2.96,Andosol,6.7,158.5,28.4,75.0,Terbatas,Sedang,6.0,Tidak Sesuai,Sedang,Tidak Ada,15.0,Tidak Berisiko
+Padi,0.37,Aluvial,6.6,199.3,27.7,48.0,Terbatas,Rendah,1.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,33.0,Tidak Berisiko
+Bawang Merah,1.58,Regosol,6.4,185.4,22.6,64.0,Memadai,Sedang,5.0,Sesuai Anjuran,Sedang,Tidak Ada,25.0,Tidak Berisiko
+Padi,0.95,Aluvial,6.3,171.5,23.1,55.0,Memadai,Unggul,6.0,Sesuai Anjuran,Tidak Ada,Berat,28.0,Tidak Berisiko
+Cabai,1.22,Regosol,5.5,,27.8,69.0,Terbatas,Sedang,1.0,Sesuai Anjuran,Sedang,Tidak Ada,11.0,Tidak Berisiko
+Bawang Merah,3.98,Grumosol,7.4,253.2,,63.0,Memadai,Unggul,3.0,Sesuai Anjuran,Sedang,Ringan,10.0,Tidak Berisiko
+Jagung,0.75,,5.5,231.8,24.5,42.0,Terbatas,Rendah,7.0,Sesuai Anjuran,Ringan,Tidak Ada,40.0,Tidak Berisiko
+Bawang Merah,,Andosol,6.1,272.0,25.8,61.0,Memadai,Unggul,7.0,Sesuai Anjuran,Sedang,Tidak Ada,27.0,Tidak Berisiko
+Cabai,0.91,Andosol,5.0,218.1,26.4,91.0,Memadai,Sedang,1.0,Sesuai Anjuran,Ringan,Sedang,2.0,Tidak Berisiko
+Padi,2.13,Aluvial,6.4,417.8,24.8,76.0,Terbatas,Rendah,6.0,Sesuai Anjuran,Tidak Ada,Ringan,11.0,Berisiko Gagal Panen
+Cabai,0.8,Latosol,5.2,230.8,27.5,95.0,Memadai,Rendah,5.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,30.0,Tidak Berisiko
+Kedelai,0.95,Aluvial,5.2,234.3,28.5,46.0,Memadai,Sedang,4.0,Sesuai Anjuran,Ringan,Sedang,25.0,Tidak Berisiko
+Cabai,0.91,Andosol,6.9,291.6,33.2,86.0,Memadai,Unggul,3.0,Sesuai Anjuran,Sedang,Tidak Ada,36.0,Tidak Berisiko
+Bawang Merah,0.25,Latosol,,154.2,25.1,47.0,Terbatas,Unggul,5.0,Sesuai Anjuran,Ringan,Sedang,9.0,Tidak Berisiko
+Padi,1.36,Latosol,5.9,272.8,28.3,46.0,Terbatas,Unggul,7.0,,Tidak Ada,Ringan,4.0,Tidak Berisiko
+Bawang Merah,3.46,Aluvial,5.2,,27.7,56.0,Memadai,Unggul,1.0,Tidak Menggunakan,Sedang,Ringan,9.0,Tidak Berisiko
+Bawang Merah,3.48,Latosol,3.8,269.8,26.4,55.0,Tidak Ada,Rendah,1.0,Sesuai Anjuran,Tidak Ada,Sedang,32.0,Berisiko Gagal Panen
+Bawang Merah,2.98,Andosol,5.5,460.5,29.9,,Terbatas,Unggul,0.0,Tidak Sesuai,Ringan,Berat,9.0,Berisiko Gagal Panen
+Bawang Merah,3.49,Regosol,6.0,197.8,,44.0,Memadai,,4.0,Sesuai Anjuran,Ringan,Sedang,5.0,Tidak Berisiko
+Padi,2.47,Aluvial,5.6,233.6,28.2,67.0,Terbatas,Rendah,5.0,Tidak Menggunakan,Ringan,Ringan,40.0,Tidak Berisiko
+Cabai,1.95,Aluvial,4.4,40.0,26.4,92.0,Memadai,Sedang,0.0,Tidak Menggunakan,Sedang,,38.0,Berisiko Gagal Panen
+Padi,2.17,Andosol,5.4,204.8,26.7,80.0,Tidak Ada,Rendah,6.0,Tidak Menggunakan,,Sedang,30.0,Berisiko Gagal Panen
+Kedelai,0.76,Aluvial,4.7,188.7,24.9,74.0,Memadai,Rendah,3.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,33.0,Tidak Berisiko
+Bawang Merah,1.36,Latosol,6.9,139.1,29.0,70.0,Terbatas,Sedang,7.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,14.0,Tidak Berisiko
+Cabai,0.87,Grumosol,6.3,381.8,31.3,92.0,Terbatas,Rendah,6.0,Tidak Sesuai,Tidak Ada,Sedang,35.0,Berisiko Gagal Panen
+Bawang Merah,1.45,Andosol,5.3,207.7,24.4,43.0,Memadai,Unggul,7.0,Sesuai Anjuran,Ringan,Tidak Ada,24.0,Tidak Berisiko
+Bawang Merah,1.71,Andosol,5.5,184.3,25.9,47.0,Memadai,Unggul,7.0,Sesuai Anjuran,Sedang,Tidak Ada,38.0,Tidak Berisiko
+Jagung,0.27,Latosol,6.6,338.6,29.4,88.0,Memadai,,6.0,Sesuai Anjuran,Sedang,Ringan,36.0,Berisiko Gagal Panen
+Padi,1.35,Regosol,6.3,128.4,27.9,66.0,Terbatas,Unggul,7.0,Sesuai Anjuran,Sedang,Ringan,40.0,Tidak Berisiko
+Bawang Merah,1.78,Andosol,6.2,377.2,26.8,69.0,Terbatas,Rendah,3.0,Sesuai Anjuran,Ringan,Sedang,16.0,Berisiko Gagal Panen
+Padi,1.01,Andosol,6.4,230.5,26.2,57.0,Memadai,Unggul,5.0,Sesuai Anjuran,Ringan,Ringan,15.0,Tidak Berisiko
+Bawang Merah,2.93,Aluvial,6.9,170.9,25.7,59.0,Terbatas,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Ringan,26.0,Tidak Berisiko
+Padi,2.32,Latosol,7.8,288.8,31.0,61.0,Tidak Ada,Sedang,6.0,Tidak Menggunakan,Ringan,Sedang,17.0,Tidak Berisiko
+Padi,1.0,Latosol,6.8,159.1,31.7,88.0,Terbatas,Unggul,4.0,Tidak Menggunakan,Sedang,Berat,1.0,Berisiko Gagal Panen
+Cabai,1.42,Regosol,6.8,20.0,28.8,93.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Ringan,Sedang,35.0,Berisiko Gagal Panen
+Kedelai,1.78,Aluvial,4.6,287.6,28.6,89.0,Tidak Ada,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Sedang,20.0,Tidak Berisiko
+Padi,0.57,Regosol,6.0,437.7,30.0,64.0,Terbatas,Unggul,3.0,Tidak Sesuai,Berat,Sedang,10.0,Berisiko Gagal Panen
+Jagung,2.96,Regosol,4.7,65.2,25.7,48.0,Memadai,Sedang,2.0,Tidak Menggunakan,Ringan,Sedang,24.0,Tidak Berisiko
+Padi,0.93,Andosol,7.7,178.2,31.2,92.0,Memadai,Rendah,4.0,Sesuai Anjuran,Sedang,Ringan,29.0,Tidak Berisiko
+Jagung,1.2,Aluvial,5.0,40.6,29.8,,Terbatas,Unggul,1.0,Sesuai Anjuran,Sedang,Tidak Ada,33.0,Berisiko Gagal Panen
+Jagung,1.26,Andosol,4.9,198.5,28.6,,Memadai,Unggul,5.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,6.0,Tidak Berisiko
+Cabai,0.86,Aluvial,5.8,187.2,32.1,40.0,Terbatas,Unggul,2.0,Tidak Menggunakan,Tidak Ada,Ringan,9.0,Tidak Berisiko
+Jagung,1.54,Aluvial,6.0,216.9,30.4,57.0,Tidak Ada,Unggul,7.0,Tidak Menggunakan,Sedang,Tidak Ada,37.0,Tidak Berisiko
+Jagung,0.37,Aluvial,6.4,167.7,26.6,42.0,Memadai,,3.0,Sesuai Anjuran,Tidak Ada,Ringan,29.0,Tidak Berisiko
+Jagung,1.28,Latosol,,112.3,24.6,89.0,Terbatas,Unggul,1.0,Tidak Menggunakan,Ringan,Tidak Ada,32.0,Tidak Berisiko
+Padi,0.27,Latosol,5.3,309.3,32.4,62.0,Memadai,Sedang,2.0,Sesuai Anjuran,Sedang,Tidak Ada,6.0,Berisiko Gagal Panen
+Jagung,0.38,Andosol,6.8,231.7,27.3,74.0,Terbatas,Sedang,7.0,Sesuai Anjuran,Ringan,Ringan,11.0,Tidak Berisiko
+Padi,0.69,Grumosol,5.8,122.7,29.8,75.0,Terbatas,Sedang,2.0,Sesuai Anjuran,Tidak Ada,Sedang,12.0,Tidak Berisiko
+,0.82,Regosol,6.7,212.9,27.9,52.0,Terbatas,Rendah,3.0,,Ringan,Sedang,34.0,Tidak Berisiko
+Jagung,0.1,,7.2,208.7,27.1,55.0,Terbatas,Unggul,6.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,22.0,Tidak Berisiko
+Bawang Merah,0.8,Aluvial,5.0,411.6,25.8,71.0,Terbatas,Sedang,6.0,Tidak Sesuai,Ringan,Tidak Ada,30.0,Berisiko Gagal Panen
+Bawang Merah,1.32,Andosol,6.0,390.7,24.8,48.0,Memadai,Unggul,0.0,Sesuai Anjuran,Ringan,Berat,38.0,Berisiko Gagal Panen
+Jagung,0.46,Regosol,5.4,142.7,24.2,77.0,Terbatas,Unggul,5.0,Sesuai Anjuran,Sedang,Tidak Ada,,Berisiko Gagal Panen
+Bawang Merah,1.66,Regosol,4.8,236.4,27.7,65.0,Memadai,Unggul,0.0,Sesuai Anjuran,Ringan,Berat,40.0,Tidak Berisiko
+Padi,1.72,Latosol,5.6,186.4,27.7,62.0,Terbatas,Sedang,3.0,Tidak Sesuai,Berat,Tidak Ada,38.0,Berisiko Gagal Panen
+Kedelai,0.91,Aluvial,6.3,151.6,31.5,71.0,Tidak Ada,Sedang,7.0,Sesuai Anjuran,Sedang,Tidak Ada,12.0,Tidak Berisiko
+Bawang Merah,2.63,Latosol,5.9,,33.1,48.0,Tidak Ada,Sedang,2.0,Tidak Sesuai,Berat,Sedang,23.0,Tidak Berisiko
+Jagung,0.79,,5.5,273.3,24.7,45.0,Terbatas,,5.0,Tidak Sesuai,Ringan,Tidak Ada,29.0,Tidak Berisiko
+Bawang Merah,0.39,Grumosol,6.3,418.1,30.2,57.0,Tidak Ada,Sedang,5.0,Sesuai Anjuran,Ringan,Ringan,19.0,Berisiko Gagal Panen
+Jagung,16.23,Latosol,7.2,247.9,26.7,57.0,Memadai,Unggul,7.0,Tidak Sesuai,Ringan,Tidak Ada,35.0,Tidak Berisiko
+Kedelai,0.31,Grumosol,5.6,85.5,29.2,94.0,Memadai,Unggul,3.0,Tidak Menggunakan,Ringan,Sedang,29.0,Tidak Berisiko
+Bawang Merah,0.18,Aluvial,6.9,439.1,,75.0,Memadai,Sedang,7.0,Sesuai Anjuran,Sedang,Sedang,16.0,Berisiko Gagal Panen
+Jagung,0.75,Andosol,6.9,208.3,27.7,68.0,Tidak Ada,Rendah,4.0,Sesuai Anjuran,Ringan,Berat,16.0,Berisiko Gagal Panen
+Kedelai,2.49,Aluvial,5.7,333.6,28.3,47.0,Tidak Ada,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,25.0,Berisiko Gagal Panen
+Padi,1.57,Grumosol,6.3,329.1,27.6,92.0,Memadai,Sedang,1.0,Sesuai Anjuran,Berat,Tidak Ada,2.0,Tidak Berisiko
+Jagung,1.34,Regosol,5.1,236.5,24.2,46.0,Terbatas,Sedang,,Sesuai Anjuran,Sedang,Sedang,4.0,Tidak Berisiko
+Jagung,1.09,Aluvial,6.8,305.8,,60.0,Tidak Ada,Sedang,6.0,Tidak Sesuai,Tidak Ada,Tidak Ada,11.0,Tidak Berisiko
+Jagung,1.75,Andosol,7.2,225.6,25.0,76.0,Tidak Ada,Unggul,5.0,Sesuai Anjuran,Ringan,Tidak Ada,21.0,Tidak Berisiko
+,1.6,Grumosol,5.7,114.2,28.8,83.0,Tidak Ada,Sedang,4.0,Sesuai Anjuran,Berat,Sedang,30.0,Berisiko Gagal Panen
+Jagung,0.64,Grumosol,5.2,,27.9,84.0,Memadai,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,12.0,Tidak Berisiko
+Jagung,0.28,Grumosol,6.5,60.9,26.7,44.0,,Rendah,0.0,Sesuai Anjuran,Ringan,Tidak Ada,21.0,Berisiko Gagal Panen
+Bawang Merah,0.36,Aluvial,6.6,379.6,24.6,40.0,Terbatas,Sedang,2.0,Sesuai Anjuran,Tidak Ada,Sedang,34.0,Berisiko Gagal Panen
+Jagung,1.21,Aluvial,6.3,227.4,27.1,57.0,Terbatas,Unggul,5.0,Tidak Sesuai,Ringan,Berat,6.0,Tidak Berisiko
+Kedelai,0.36,Regosol,5.8,191.2,31.3,45.0,Memadai,Rendah,2.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,34.0,Tidak Berisiko
+Jagung,4.66,Aluvial,7.5,219.9,30.5,53.0,Terbatas,Rendah,7.0,Tidak Sesuai,Berat,Tidak Ada,2.0,Tidak Berisiko
+Padi,1.44,Andosol,6.8,175.6,29.9,67.0,Memadai,Sedang,3.0,Sesuai Anjuran,Tidak Ada,Sedang,7.0,Tidak Berisiko
+Cabai,1.06,Grumosol,7.9,193.5,28.9,53.0,Terbatas,Unggul,3.0,Tidak Sesuai,Ringan,Sedang,21.0,Tidak Berisiko
+Bawang Merah,1.42,Andosol,6.2,350.8,28.8,92.0,Memadai,Rendah,3.0,Sesuai Anjuran,Berat,Ringan,10.0,Tidak Berisiko
+Cabai,0.77,Aluvial,5.2,265.5,30.1,41.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,35.0,Tidak Berisiko
+Bawang Merah,1.56,Aluvial,6.5,232.6,30.1,57.0,Tidak Ada,Sedang,7.0,Sesuai Anjuran,Sedang,Ringan,25.0,Tidak Berisiko
+Kedelai,1.05,Andosol,5.0,143.1,27.7,56.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Sedang,Tidak Ada,4.0,Tidak Berisiko
+Jagung,4.22,Andosol,6.5,257.7,26.7,42.0,Memadai,,7.0,Sesuai Anjuran,Ringan,Tidak Ada,26.0,Tidak Berisiko
+Padi,0.65,Andosol,5.9,183.7,25.2,73.0,Memadai,Rendah,5.0,Sesuai Anjuran,Ringan,Tidak Ada,9.0,Tidak Berisiko
+Kedelai,1.66,Regosol,5.5,188.0,30.7,,Memadai,Unggul,5.0,Tidak Sesuai,Tidak Ada,Ringan,25.0,Tidak Berisiko
+Bawang Merah,0.38,,7.4,319.2,29.7,43.0,Memadai,Sedang,4.0,Sesuai Anjuran,Ringan,Ringan,37.0,Tidak Berisiko
+Kedelai,5.27,Aluvial,6.3,309.0,26.9,49.0,Terbatas,Sedang,7.0,Sesuai Anjuran,Tidak Ada,,38.0,Tidak Berisiko
+Padi,0.53,Latosol,4.8,155.5,21.5,47.0,Memadai,Unggul,2.0,Tidak Sesuai,Ringan,Tidak Ada,32.0,Tidak Berisiko
+Padi,1.37,Andosol,7.2,20.0,27.2,44.0,Memadai,Rendah,6.0,Sesuai Anjuran,Tidak Ada,Ringan,21.0,Berisiko Gagal Panen
+Cabai,2.13,Regosol,6.1,289.6,29.7,54.0,Tidak Ada,Sedang,0.0,Tidak Sesuai,Sedang,Ringan,5.0,Berisiko Gagal Panen
+Bawang Merah,1.1,Regosol,6.0,273.0,27.1,49.0,Terbatas,Sedang,0.0,Tidak Sesuai,Tidak Ada,Tidak Ada,30.0,Tidak Berisiko
+Kedelai,0.68,Andosol,6.6,326.0,26.1,71.0,Tidak Ada,Sedang,3.0,Sesuai Anjuran,Sedang,Tidak Ada,13.0,Berisiko Gagal Panen
+Padi,1.04,Andosol,6.6,291.0,25.3,91.0,Memadai,Unggul,1.0,Sesuai Anjuran,,Tidak Ada,35.0,Tidak Berisiko
+Kedelai,1.46,Andosol,6.5,158.7,27.5,,Memadai,Unggul,6.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,37.0,Tidak Berisiko
+Cabai,1.81,Aluvial,7.4,116.4,23.4,91.0,Memadai,Unggul,3.0,Sesuai Anjuran,Ringan,Tidak Ada,18.0,Tidak Berisiko
+Padi,2.91,Grumosol,5.8,266.8,24.9,90.0,Terbatas,Rendah,3.0,Tidak Sesuai,Ringan,Tidak Ada,20.0,Tidak Berisiko
+,1.47,Latosol,6.3,176.6,29.7,57.0,Tidak Ada,Rendah,3.0,Sesuai Anjuran,Ringan,Sedang,31.0,Tidak Berisiko
+Jagung,1.93,Andosol,5.9,224.5,31.8,68.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Ringan,Ringan,24.0,Tidak Berisiko
+Kedelai,1.55,Grumosol,6.2,205.5,29.4,48.0,Memadai,,3.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,28.0,Tidak Berisiko
+Kedelai,1.93,Aluvial,5.6,329.4,32.7,41.0,Memadai,Unggul,6.0,Tidak Menggunakan,Tidak Ada,,9.0,Tidak Berisiko
+Kedelai,1.51,Latosol,7.3,194.3,26.0,84.0,Tidak Ada,Rendah,3.0,Sesuai Anjuran,Sedang,Ringan,33.0,Berisiko Gagal Panen
+Cabai,1.09,Andosol,5.5,203.0,26.1,67.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Berat,Sedang,19.0,Tidak Berisiko
+Jagung,1.73,Aluvial,6.4,294.9,28.9,86.0,Tidak Ada,Rendah,2.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,7.0,Berisiko Gagal Panen
+Cabai,1.62,Grumosol,6.0,89.6,27.3,78.0,Memadai,Sedang,3.0,Sesuai Anjuran,Sedang,Ringan,18.0,Berisiko Gagal Panen
+Kedelai,0.88,Aluvial,5.8,211.5,27.4,41.0,Terbatas,Sedang,5.0,Sesuai Anjuran,Tidak Ada,Sedang,,Tidak Berisiko
+Kedelai,0.34,Aluvial,6.6,129.6,25.4,52.0,Terbatas,Sedang,3.0,Tidak Sesuai,Tidak Ada,Ringan,30.0,Tidak Berisiko
+Cabai,1.68,Latosol,6.7,329.4,32.0,94.0,Terbatas,Unggul,7.0,Tidak Sesuai,Sedang,Tidak Ada,39.0,Berisiko Gagal Panen
+Padi,1.29,Latosol,5.8,90.2,31.5,49.0,Tidak Ada,Unggul,,Sesuai Anjuran,Ringan,Ringan,24.0,Tidak Berisiko
+Jagung,0.89,Regosol,5.8,278.2,29.4,86.0,Memadai,Unggul,7.0,Sesuai Anjuran,Ringan,Tidak Ada,9.0,Tidak Berisiko
+Cabai,0.42,Grumosol,5.4,215.7,28.6,88.0,Memadai,Unggul,2.0,Sesuai Anjuran,Ringan,Tidak Ada,18.0,Tidak Berisiko
+Bawang Merah,0.55,Regosol,6.2,174.3,27.8,95.0,Memadai,Unggul,5.0,Tidak Sesuai,Tidak Ada,Tidak Ada,1.0,Tidak Berisiko
+Cabai,1.76,Andosol,8.0,313.2,28.4,58.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Ringan,Ringan,14.0,Tidak Berisiko
+Cabai,3.63,Regosol,6.5,175.7,29.1,62.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Berat,Ringan,19.0,Tidak Berisiko
+Padi,0.3,Andosol,6.8,188.5,31.5,95.0,Memadai,Unggul,3.0,Sesuai Anjuran,Ringan,Tidak Ada,16.0,Tidak Berisiko
+Cabai,2.14,Grumosol,6.3,277.2,29.6,56.0,Tidak Ada,Sedang,1.0,Sesuai Anjuran,Berat,Tidak Ada,4.0,Berisiko Gagal Panen
+Padi,0.86,Regosol,5.0,274.6,24.7,91.0,Memadai,Unggul,1.0,Sesuai Anjuran,Ringan,Tidak Ada,35.0,Tidak Berisiko
+Cabai,7.22,Latosol,5.9,196.3,26.2,92.0,Memadai,Sedang,0.0,Tidak Menggunakan,Sedang,Berat,14.0,Tidak Berisiko
+Kedelai,0.76,Aluvial,4.9,65.2,28.0,78.0,Memadai,Sedang,7.0,Sesuai Anjuran,Ringan,Sedang,4.0,Tidak Berisiko
+,3.73,Andosol,5.1,306.7,27.3,89.0,Memadai,Sedang,6.0,Sesuai Anjuran,Berat,Ringan,17.0,Tidak Berisiko
+Bawang Merah,0.89,Aluvial,6.8,214.6,31.4,58.0,Memadai,Sedang,7.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,22.0,Tidak Berisiko
+Jagung,1.08,Grumosol,6.2,209.9,28.6,57.0,Memadai,Sedang,6.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,40.0,Tidak Berisiko
+Cabai,1.64,Regosol,6.8,133.9,26.8,56.0,Tidak Ada,Unggul,1.0,Sesuai Anjuran,Sedang,Ringan,4.0,Berisiko Gagal Panen
+Bawang Merah,0.44,Latosol,5.3,346.6,34.3,92.0,,Sedang,1.0,Sesuai Anjuran,Sedang,,11.0,Berisiko Gagal Panen
+Padi,0.23,Regosol,5.4,148.9,27.1,82.0,Tidak Ada,Sedang,5.0,Sesuai Anjuran,Sedang,,22.0,Berisiko Gagal Panen
+Cabai,0.57,Latosol,6.9,283.1,25.9,59.0,Memadai,Unggul,1.0,Sesuai Anjuran,Sedang,,26.0,Tidak Berisiko
+Padi,1.35,Regosol,7.5,66.1,27.3,87.0,Memadai,Unggul,3.0,Tidak Sesuai,Sedang,Ringan,4.0,Berisiko Gagal Panen
+Cabai,0.58,Latosol,6.6,161.8,24.6,76.0,Terbatas,Sedang,5.0,Tidak Sesuai,Tidak Ada,Sedang,5.0,Tidak Berisiko
+Jagung,0.44,Regosol,5.9,212.3,30.1,60.0,Memadai,Unggul,4.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,13.0,Tidak Berisiko
+Cabai,2.07,Latosol,7.5,271.1,26.5,92.0,Memadai,Rendah,6.0,Tidak Sesuai,Berat,Ringan,3.0,Tidak Berisiko
+Padi,1.47,Latosol,5.6,298.0,27.2,83.0,Memadai,Unggul,0.0,Sesuai Anjuran,Sedang,,17.0,Tidak Berisiko
+Jagung,1.29,Grumosol,7.1,69.6,29.9,45.0,Memadai,Unggul,2.0,Sesuai Anjuran,Sedang,Ringan,9.0,Berisiko Gagal Panen
+Kedelai,1.09,Aluvial,7.3,146.3,26.8,89.0,Tidak Ada,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Sedang,33.0,Berisiko Gagal Panen
+Bawang Merah,1.78,Grumosol,6.8,249.8,28.8,78.0,Memadai,Sedang,7.0,Tidak Sesuai,Sedang,Tidak Ada,26.0,Tidak Berisiko
+Padi,2.23,Regosol,6.9,364.1,26.6,88.0,Memadai,Unggul,2.0,Tidak Menggunakan,Sedang,Tidak Ada,12.0,Berisiko Gagal Panen
+Cabai,0.12,Grumosol,7.1,288.9,29.5,74.0,Memadai,Sedang,5.0,Sesuai Anjuran,Sedang,Tidak Ada,22.0,Tidak Berisiko
+Jagung,3.84,,7.4,256.6,27.7,47.0,Memadai,Sedang,0.0,Sesuai Anjuran,Tidak Ada,Berat,24.0,Tidak Berisiko
+Padi,0.2,Regosol,5.9,27.1,28.2,69.0,Memadai,Unggul,4.0,,Tidak Ada,Ringan,40.0,Berisiko Gagal Panen
+Cabai,1.6,Andosol,6.7,243.1,25.0,44.0,Terbatas,Unggul,6.0,Tidak Sesuai,Ringan,Tidak Ada,28.0,Tidak Berisiko
+Padi,2.67,Grumosol,7.1,296.8,27.0,42.0,Memadai,Unggul,1.0,Sesuai Anjuran,Ringan,Tidak Ada,40.0,Tidak Berisiko
+Bawang Merah,2.77,Aluvial,6.6,302.3,29.5,56.0,Memadai,Sedang,1.0,Tidak Menggunakan,Sedang,Tidak Ada,36.0,Tidak Berisiko
+Cabai,3.32,Aluvial,7.0,184.0,31.3,69.0,Tidak Ada,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Berat,20.0,Tidak Berisiko
+Cabai,1.5,Latosol,7.8,176.6,28.2,46.0,Terbatas,Sedang,6.0,Tidak Sesuai,Berat,Tidak Ada,12.0,Berisiko Gagal Panen
+Bawang Merah,0.84,Aluvial,7.0,254.9,28.3,95.0,Terbatas,Unggul,1.0,Tidak Menggunakan,Berat,Sedang,28.0,Tidak Berisiko
+Padi,1.6,Latosol,7.4,,27.7,75.0,Memadai,Sedang,4.0,Sesuai Anjuran,Ringan,Tidak Ada,21.0,Tidak Berisiko
+Jagung,1.72,Regosol,5.7,190.9,29.8,84.0,Terbatas,Sedang,4.0,Tidak Menggunakan,Ringan,Sedang,35.0,Tidak Berisiko
+Bawang Merah,1.65,Regosol,3.9,266.4,24.4,91.0,Memadai,Sedang,0.0,Tidak Sesuai,Berat,Sedang,8.0,Tidak Berisiko
+Padi,2.42,Grumosol,5.4,154.6,27.8,63.0,Memadai,Unggul,4.0,Sesuai Anjuran,Ringan,Ringan,1.0,Tidak Berisiko
+Bawang Merah,1.81,Aluvial,5.7,398.9,27.9,88.0,Terbatas,Unggul,4.0,Tidak Menggunakan,Ringan,Ringan,20.0,Berisiko Gagal Panen
+Bawang Merah,0.52,Regosol,,1114.84,,68.0,Memadai,Unggul,4.0,Tidak Menggunakan,Ringan,Sedang,37.0,Tidak Berisiko
+Jagung,0.59,Regosol,5.8,,24.9,76.0,Memadai,Sedang,2.0,Sesuai Anjuran,Berat,Ringan,5.0,Tidak Berisiko
+Jagung,0.97,Grumosol,7.5,179.2,31.3,57.0,Memadai,Rendah,3.0,Sesuai Anjuran,Sedang,Ringan,35.0,Berisiko Gagal Panen
+Kedelai,0.66,Regosol,6.9,232.5,28.6,91.0,Tidak Ada,Sedang,2.0,Tidak Menggunakan,Tidak Ada,Ringan,19.0,Tidak Berisiko
+Bawang Merah,1.74,Latosol,5.6,301.4,31.5,94.0,Memadai,Unggul,,Sesuai Anjuran,Tidak Ada,Sedang,22.0,Tidak Berisiko
+Kedelai,2.68,Andosol,6.7,,31.9,58.0,Tidak Ada,Unggul,0.0,Sesuai Anjuran,Sedang,Tidak Ada,22.0,Berisiko Gagal Panen
+Padi,0.34,Grumosol,6.4,53.4,24.3,64.0,Memadai,Sedang,1.0,Tidak Menggunakan,Ringan,Sedang,17.0,Tidak Berisiko
+Kedelai,0.51,Aluvial,5.7,265.8,25.9,65.0,Tidak Ada,Unggul,7.0,Sesuai Anjuran,Ringan,Ringan,24.0,Tidak Berisiko
+Jagung,0.75,Latosol,6.4,232.9,30.5,80.0,Memadai,Rendah,,Tidak Sesuai,Sedang,Ringan,29.0,Tidak Berisiko
+Padi,0.79,Grumosol,7.3,227.6,30.5,41.0,Memadai,Unggul,0.0,Sesuai Anjuran,Tidak Ada,Ringan,3.0,Tidak Berisiko
+Bawang Merah,,Regosol,7.8,199.1,31.0,72.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,38.0,Tidak Berisiko
+Bawang Merah,2.27,Andosol,6.8,149.3,34.7,80.0,Memadai,Sedang,5.0,Sesuai Anjuran,Ringan,Tidak Ada,39.0,Tidak Berisiko
+Jagung,4.16,Andosol,6.0,145.1,24.0,74.0,Terbatas,Unggul,7.0,Sesuai Anjuran,Berat,Tidak Ada,21.0,Tidak Berisiko
+Padi,,Latosol,7.2,244.5,31.9,50.0,Memadai,Sedang,4.0,Tidak Sesuai,Tidak Ada,Tidak Ada,27.0,Tidak Berisiko
+Cabai,0.57,Andosol,6.2,443.9,30.5,66.0,Terbatas,Rendah,1.0,Sesuai Anjuran,Ringan,Sedang,3.0,Berisiko Gagal Panen
+Cabai,2.55,Grumosol,6.8,101.3,27.9,59.0,Memadai,Rendah,2.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,14.0,Berisiko Gagal Panen
+Padi,1.71,Grumosol,6.6,317.4,32.1,58.0,Terbatas,Rendah,2.0,Sesuai Anjuran,Ringan,Berat,11.0,Berisiko Gagal Panen
+Cabai,0.24,Grumosol,6.3,275.8,25.9,59.0,Memadai,Unggul,2.0,Sesuai Anjuran,Ringan,Tidak Ada,2.0,Tidak Berisiko
+Jagung,0.64,,6.1,186.4,30.6,80.0,Memadai,Sedang,6.0,Sesuai Anjuran,Sedang,Ringan,32.0,Tidak Berisiko
+Jagung,0.83,Andosol,5.1,373.9,28.6,69.0,Terbatas,Sedang,,Sesuai Anjuran,Ringan,Tidak Ada,25.0,Berisiko Gagal Panen
+Bawang Merah,0.71,,7.7,225.5,29.0,78.0,Terbatas,Sedang,4.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,34.0,Tidak Berisiko
+Bawang Merah,4.23,Andosol,5.9,50.5,24.3,49.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Berat,Ringan,29.0,Berisiko Gagal Panen
+Jagung,0.1,,7.4,265.7,27.3,80.0,Terbatas,Sedang,5.0,Tidak Menggunakan,Ringan,Berat,3.0,Tidak Berisiko
+Jagung,1.61,Andosol,5.4,132.6,31.1,79.0,Memadai,Sedang,4.0,Sesuai Anjuran,Ringan,Tidak Ada,21.0,Tidak Berisiko
+Cabai,2.26,Latosol,6.0,134.8,33.5,44.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Berat,Ringan,19.0,Berisiko Gagal Panen
+Padi,,Aluvial,6.1,329.3,25.9,,Memadai,Rendah,1.0,Sesuai Anjuran,Tidak Ada,Sedang,26.0,Tidak Berisiko
+Jagung,0.3,Regosol,5.9,88.5,28.2,83.0,Memadai,,4.0,Sesuai Anjuran,Ringan,Tidak Ada,18.0,Berisiko Gagal Panen
+Cabai,2.1,Latosol,6.6,211.1,26.3,41.0,Terbatas,Sedang,1.0,Sesuai Anjuran,Tidak Ada,Sedang,36.0,Tidak Berisiko
+Bawang Merah,1.06,Grumosol,3.6,364.8,24.3,41.0,Memadai,Sedang,0.0,Sesuai Anjuran,Tidak Ada,Ringan,5.0,Berisiko Gagal Panen
+Jagung,1.02,Andosol,6.3,157.4,32.4,72.0,Terbatas,Unggul,4.0,Tidak Menggunakan,Tidak Ada,Ringan,36.0,Berisiko Gagal Panen
+Kedelai,2.72,Regosol,6.7,170.8,25.2,50.0,Memadai,Unggul,1.0,Sesuai Anjuran,Sedang,Sedang,22.0,Tidak Berisiko
+Cabai,0.86,Aluvial,7.3,55.9,27.5,93.0,Memadai,Unggul,4.0,Sesuai Anjuran,Sedang,Ringan,35.0,Berisiko Gagal Panen
+Padi,1.53,Latosol,6.1,314.6,25.9,41.0,Memadai,Unggul,4.0,Tidak Sesuai,Ringan,Tidak Ada,38.0,Tidak Berisiko
+Jagung,1.39,Grumosol,6.1,,27.3,78.0,Memadai,Unggul,1.0,Sesuai Anjuran,Berat,Ringan,,Tidak Berisiko
+Kedelai,0.55,Andosol,7.1,202.4,28.5,,Memadai,Sedang,,Tidak Sesuai,Berat,Ringan,38.0,Tidak Berisiko
+Padi,1.2,Grumosol,4.3,321.0,30.0,42.0,Terbatas,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,23.0,Tidak Berisiko
+Cabai,2.25,Grumosol,4.7,129.5,30.5,,Terbatas,Sedang,7.0,Sesuai Anjuran,Ringan,Sedang,39.0,Berisiko Gagal Panen
+Cabai,0.14,Latosol,6.3,257.9,25.8,44.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Tidak Ada,Ringan,30.0,Tidak Berisiko
+Cabai,0.92,Regosol,7.4,315.4,26.2,68.0,Memadai,Unggul,1.0,Sesuai Anjuran,Sedang,Tidak Ada,32.0,Tidak Berisiko
+Padi,2.99,Aluvial,6.9,530.4,25.0,68.0,Memadai,Sedang,3.0,Sesuai Anjuran,Tidak Ada,Ringan,37.0,Berisiko Gagal Panen
+Bawang Merah,1.13,Regosol,5.4,277.9,22.5,46.0,Terbatas,Sedang,3.0,Tidak Sesuai,Ringan,Tidak Ada,21.0,Tidak Berisiko
+Jagung,0.6,Latosol,7.8,317.5,24.9,71.0,Tidak Ada,Sedang,5.0,Sesuai Anjuran,Tidak Ada,Ringan,15.0,Tidak Berisiko
+Kedelai,0.45,Andosol,6.1,312.2,28.4,73.0,Memadai,Unggul,4.0,Sesuai Anjuran,Berat,Tidak Ada,7.0,Tidak Berisiko
+Kedelai,2.44,Andosol,5.3,163.7,26.4,84.0,Terbatas,Unggul,1.0,Tidak Sesuai,Tidak Ada,Ringan,31.0,Tidak Berisiko
+Padi,1.47,Aluvial,5.8,285.4,27.7,52.0,Terbatas,Sedang,3.0,Sesuai Anjuran,Ringan,Sedang,22.0,Tidak Berisiko
+Padi,1.67,Andosol,5.6,228.0,28.8,93.0,Terbatas,Unggul,7.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,25.0,Tidak Berisiko
+Cabai,0.16,Grumosol,5.7,299.3,28.0,85.0,Tidak Ada,Sedang,1.0,Tidak Menggunakan,Sedang,Tidak Ada,17.0,Berisiko Gagal Panen
+Cabai,0.36,Aluvial,5.0,249.4,30.5,87.0,Terbatas,Unggul,5.0,Sesuai Anjuran,Tidak Ada,Ringan,20.0,Tidak Berisiko
+Cabai,2.4,Aluvial,5.0,284.9,27.9,63.0,Memadai,Sedang,6.0,Sesuai Anjuran,Ringan,Ringan,19.0,Tidak Berisiko
+Jagung,1.39,Regosol,6.2,265.1,29.3,45.0,Terbatas,Sedang,,Sesuai Anjuran,Sedang,Sedang,18.0,Tidak Berisiko
+Bawang Merah,0.74,Andosol,5.3,229.5,26.3,43.0,Terbatas,Unggul,6.0,Tidak Sesuai,Tidak Ada,Tidak Ada,4.0,Tidak Berisiko
+Jagung,0.5,Grumosol,5.3,270.9,25.0,79.0,Memadai,Unggul,7.0,Tidak Sesuai,Sedang,Ringan,29.0,Tidak Berisiko
+Padi,1.93,Latosol,6.7,245.9,29.8,68.0,Terbatas,Sedang,3.0,Sesuai Anjuran,Ringan,Tidak Ada,22.0,Tidak Berisiko
+Bawang Merah,1.78,Aluvial,8.0,363.7,25.2,83.0,Memadai,Rendah,6.0,Sesuai Anjuran,Tidak Ada,Berat,22.0,Berisiko Gagal Panen
+Bawang Merah,1.77,Grumosol,7.0,299.2,29.6,61.0,Terbatas,Unggul,4.0,Tidak Menggunakan,Sedang,Tidak Ada,17.0,Tidak Berisiko
+Cabai,1.5,Regosol,6.0,235.9,24.8,77.0,Memadai,Unggul,0.0,Sesuai Anjuran,Tidak Ada,,20.0,Tidak Berisiko
+Bawang Merah,,Andosol,5.4,236.6,30.2,94.0,Memadai,Sedang,0.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,18.0,Tidak Berisiko
+Padi,0.31,Regosol,7.3,176.1,24.9,79.0,Terbatas,Sedang,5.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,,Tidak Berisiko
+Jagung,1.65,Andosol,6.7,361.2,28.9,75.0,Terbatas,Unggul,6.0,Tidak Menggunakan,Sedang,Tidak Ada,3.0,Berisiko Gagal Panen
+Jagung,1.93,Aluvial,7.4,386.2,23.4,76.0,Memadai,Sedang,3.0,Sesuai Anjuran,Tidak Ada,Ringan,12.0,Tidak Berisiko
+Kedelai,,Regosol,6.2,387.1,26.4,46.0,Memadai,Sedang,6.0,Sesuai Anjuran,Ringan,Berat,20.0,Berisiko Gagal Panen
+Kedelai,2.22,Latosol,4.1,85.0,26.0,81.0,Memadai,Rendah,2.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,39.0,Berisiko Gagal Panen
+Jagung,1.58,Latosol,5.8,198.9,28.4,64.0,Memadai,Unggul,6.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,23.0,Tidak Berisiko
+Bawang Merah,0.52,Latosol,6.1,,30.0,,Tidak Ada,Sedang,5.0,Sesuai Anjuran,Sedang,Sedang,29.0,Berisiko Gagal Panen
+Bawang Merah,0.41,Andosol,6.9,78.5,27.9,76.0,Terbatas,Rendah,1.0,Sesuai Anjuran,Ringan,Ringan,4.0,Berisiko Gagal Panen
+Bawang Merah,2.35,Grumosol,6.7,249.7,31.6,72.0,Terbatas,Unggul,1.0,Tidak Menggunakan,Sedang,Tidak Ada,7.0,Tidak Berisiko
+Kedelai,0.79,Latosol,6.6,318.5,25.0,53.0,Terbatas,Sedang,7.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,5.0,Tidak Berisiko
+Cabai,2.23,Grumosol,5.6,240.0,27.4,76.0,Memadai,Unggul,5.0,Sesuai Anjuran,Sedang,Berat,36.0,Tidak Berisiko
+Bawang Merah,3.8,Andosol,5.0,227.1,28.7,57.0,Tidak Ada,Unggul,4.0,Sesuai Anjuran,Berat,Tidak Ada,32.0,Berisiko Gagal Panen
+Padi,0.72,Andosol,6.2,65.8,31.5,94.0,Tidak Ada,Rendah,7.0,Tidak Menggunakan,Ringan,Tidak Ada,39.0,Berisiko Gagal Panen
+Bawang Merah,3.17,Andosol,7.4,250.9,26.0,61.0,Memadai,Rendah,0.0,Sesuai Anjuran,Tidak Ada,Ringan,10.0,Tidak Berisiko
+Kedelai,1.61,Aluvial,4.3,175.0,26.1,55.0,Terbatas,Unggul,2.0,Sesuai Anjuran,Ringan,Tidak Ada,3.0,Tidak Berisiko
+Cabai,2.38,Grumosol,6.3,104.5,26.5,74.0,Memadai,Unggul,4.0,Tidak Menggunakan,Sedang,Tidak Ada,7.0,Berisiko Gagal Panen
+Kedelai,1.18,Andosol,5.8,196.3,27.9,51.0,Terbatas,Sedang,,Sesuai Anjuran,Tidak Ada,Ringan,16.0,Tidak Berisiko
+Jagung,1.71,Andosol,5.9,281.9,29.5,63.0,Memadai,Rendah,5.0,Sesuai Anjuran,Sedang,Ringan,17.0,Berisiko Gagal Panen
+Kedelai,0.9,Andosol,3.9,232.1,29.7,55.0,Memadai,Rendah,6.0,Sesuai Anjuran,Tidak Ada,Ringan,28.0,Tidak Berisiko
+Kedelai,,Grumosol,5.2,134.1,27.6,88.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Berat,Sedang,29.0,Berisiko Gagal Panen
+Cabai,2.03,Andosol,5.7,256.5,32.4,63.0,Memadai,Sedang,3.0,Tidak Sesuai,Berat,Tidak Ada,16.0,Tidak Berisiko
+Kedelai,0.9,Aluvial,7.3,169.7,30.3,65.0,Memadai,Unggul,6.0,Sesuai Anjuran,Sedang,Sedang,14.0,Tidak Berisiko
+Kedelai,0.1,Regosol,5.6,174.2,20.0,60.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Sedang,Sedang,12.0,Tidak Berisiko
+Padi,2.4,Regosol,6.0,248.9,30.7,60.0,Memadai,Sedang,6.0,Tidak Menggunakan,Tidak Ada,Berat,35.0,Tidak Berisiko
+Padi,0.72,Grumosol,6.7,300.0,29.9,83.0,Terbatas,Unggul,3.0,Tidak Sesuai,Ringan,Sedang,30.0,Tidak Berisiko
+Padi,2.76,Andosol,5.5,133.4,25.7,41.0,Terbatas,Sedang,0.0,Sesuai Anjuran,Sedang,Tidak Ada,26.0,Berisiko Gagal Panen
+Cabai,0.34,Andosol,6.7,145.9,26.3,66.0,Tidak Ada,Rendah,7.0,Tidak Menggunakan,Ringan,Sedang,25.0,Berisiko Gagal Panen
+Bawang Merah,3.35,Andosol,6.8,218.3,27.3,84.0,Memadai,Unggul,7.0,Tidak Sesuai,Tidak Ada,Tidak Ada,30.0,Tidak Berisiko
+Cabai,0.58,Latosol,6.2,264.7,27.6,75.0,Tidak Ada,Rendah,7.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,16.0,Berisiko Gagal Panen
+Bawang Merah,3.75,Regosol,6.0,135.3,27.5,45.0,Memadai,Unggul,2.0,Sesuai Anjuran,Tidak Ada,Sedang,24.0,Tidak Berisiko
+Padi,0.73,Latosol,7.1,175.2,28.4,49.0,Memadai,Rendah,2.0,Sesuai Anjuran,Tidak Ada,Ringan,2.0,Tidak Berisiko
+Bawang Merah,2.55,Regosol,6.8,185.0,27.5,45.0,Memadai,Rendah,5.0,Sesuai Anjuran,Tidak Ada,Ringan,1.0,Tidak Berisiko
+Bawang Merah,0.15,Regosol,4.8,119.3,29.6,53.0,Terbatas,Sedang,3.0,Tidak Menggunakan,Ringan,Ringan,35.0,Berisiko Gagal Panen
+Padi,1.76,Grumosol,6.1,301.0,25.8,94.0,Memadai,Unggul,2.0,,Ringan,Ringan,8.0,Tidak Berisiko
+,2.21,Latosol,6.7,136.6,30.2,95.0,Tidak Ada,Unggul,0.0,Sesuai Anjuran,Ringan,Ringan,28.0,Tidak Berisiko
+Padi,1.02,Grumosol,,116.9,26.2,72.0,Memadai,Unggul,1.0,Sesuai Anjuran,Ringan,Ringan,28.0,Tidak Berisiko
+Bawang Merah,1.76,Latosol,7.2,240.0,26.8,52.0,Memadai,Sedang,1.0,Sesuai Anjuran,Tidak Ada,Ringan,15.0,Tidak Berisiko
+Cabai,1.45,Andosol,5.8,,24.5,89.0,Memadai,Sedang,6.0,Tidak Sesuai,Berat,Tidak Ada,26.0,Tidak Berisiko
+Cabai,0.9,Aluvial,6.5,255.0,29.0,68.0,Memadai,Unggul,0.0,Sesuai Anjuran,Sedang,Tidak Ada,23.0,Tidak Berisiko
+Kedelai,1.01,Regosol,5.2,49.8,31.7,45.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Sedang,Ringan,24.0,Berisiko Gagal Panen
+Kedelai,1.18,Regosol,5.9,293.2,29.8,60.0,Memadai,Rendah,3.0,Sesuai Anjuran,Tidak Ada,Berat,29.0,Tidak Berisiko
+Jagung,3.15,Latosol,7.3,133.2,30.9,68.0,Terbatas,Unggul,4.0,Sesuai Anjuran,Berat,Tidak Ada,15.0,Berisiko Gagal Panen
+Cabai,1.17,Latosol,5.5,340.6,25.0,76.0,Tidak Ada,Sedang,3.0,Tidak Sesuai,Berat,Tidak Ada,29.0,Berisiko Gagal Panen
+Padi,2.21,Grumosol,7.0,122.8,24.4,88.0,Memadai,Unggul,2.0,Sesuai Anjuran,,Tidak Ada,31.0,Tidak Berisiko
+Kedelai,2.35,Aluvial,6.3,,30.5,94.0,Memadai,Unggul,4.0,Sesuai Anjuran,Berat,,11.0,Tidak Berisiko
+Kedelai,1.27,Latosol,6.6,244.4,28.1,47.0,Memadai,Unggul,0.0,,Tidak Ada,Ringan,1.0,Tidak Berisiko
+Cabai,1.27,Grumosol,6.4,113.0,28.7,59.0,Memadai,Unggul,1.0,Tidak Menggunakan,Tidak Ada,Berat,5.0,Tidak Berisiko
+Jagung,1.01,Grumosol,6.6,286.1,26.5,47.0,Memadai,Rendah,5.0,Tidak Sesuai,Ringan,Tidak Ada,6.0,Tidak Berisiko
+Padi,1.6,Regosol,5.8,76.8,29.7,56.0,Tidak Ada,Unggul,0.0,Tidak Sesuai,Ringan,Tidak Ada,28.0,Berisiko Gagal Panen
+Kedelai,1.22,Aluvial,6.3,,27.7,,Terbatas,Unggul,7.0,Sesuai Anjuran,Tidak Ada,Ringan,14.0,Tidak Berisiko
+Bawang Merah,1.61,Latosol,6.3,97.0,26.8,94.0,Memadai,Rendah,7.0,Sesuai Anjuran,Ringan,Tidak Ada,23.0,Berisiko Gagal Panen
+Kedelai,1.88,Andosol,5.7,380.9,29.0,85.0,Memadai,Sedang,6.0,Sesuai Anjuran,Sedang,Tidak Ada,20.0,Berisiko Gagal Panen
+Jagung,2.06,Regosol,5.8,131.4,24.2,40.0,Memadai,Rendah,2.0,Sesuai Anjuran,Sedang,Tidak Ada,14.0,Tidak Berisiko
+Jagung,,Andosol,7.7,345.6,30.0,46.0,Memadai,Unggul,0.0,Tidak Sesuai,Ringan,Ringan,7.0,Tidak Berisiko
+Jagung,2.26,Latosol,5.1,224.1,28.2,94.0,Tidak Ada,Sedang,1.0,Sesuai Anjuran,Sedang,Tidak Ada,26.0,Tidak Berisiko
+Cabai,1.79,Andosol,5.2,218.1,25.3,45.0,Terbatas,Unggul,5.0,Sesuai Anjuran,Tidak Ada,Ringan,38.0,Tidak Berisiko
+Jagung,2.44,Grumosol,6.6,248.0,24.3,95.0,Terbatas,Unggul,0.0,Sesuai Anjuran,Sedang,Sedang,25.0,Tidak Berisiko
+Jagung,3.35,Regosol,4.6,208.7,29.1,67.0,,Sedang,4.0,Sesuai Anjuran,Sedang,,24.0,Tidak Berisiko
+Jagung,0.41,Regosol,6.7,242.2,29.6,43.0,Terbatas,Rendah,2.0,Sesuai Anjuran,Sedang,Tidak Ada,23.0,Tidak Berisiko
+Kedelai,0.5,Grumosol,,160.6,32.6,76.0,Memadai,Unggul,2.0,Tidak Sesuai,Tidak Ada,Ringan,,Tidak Berisiko
+Jagung,2.33,Grumosol,5.6,174.5,28.8,82.0,Memadai,Unggul,,Sesuai Anjuran,Ringan,Tidak Ada,18.0,Tidak Berisiko
+Padi,1.21,Aluvial,6.2,309.2,31.9,56.0,Terbatas,Unggul,7.0,Sesuai Anjuran,Ringan,Berat,19.0,Berisiko Gagal Panen
+Padi,1.63,Regosol,,264.1,31.6,,Memadai,Sedang,0.0,,Ringan,Tidak Ada,1.0,Tidak Berisiko
+Cabai,1.11,Latosol,8.1,20.0,24.4,67.0,Tidak Ada,Unggul,,Tidak Sesuai,Berat,Tidak Ada,38.0,Berisiko Gagal Panen
+Jagung,1.14,Aluvial,5.8,,27.5,84.0,Memadai,Unggul,3.0,Sesuai Anjuran,Sedang,Tidak Ada,36.0,Berisiko Gagal Panen
+Jagung,0.83,Regosol,6.2,332.3,27.0,94.0,Memadai,Unggul,1.0,Sesuai Anjuran,Berat,Tidak Ada,6.0,Berisiko Gagal Panen
+Padi,0.94,Regosol,6.0,178.8,28.4,47.0,Terbatas,Unggul,7.0,Tidak Menggunakan,Ringan,Tidak Ada,12.0,Tidak Berisiko
+,0.32,Andosol,6.9,212.0,29.0,86.0,Tidak Ada,Rendah,6.0,Sesuai Anjuran,Ringan,Ringan,16.0,Tidak Berisiko
+Padi,2.63,Aluvial,6.0,223.3,28.6,53.0,Tidak Ada,Sedang,1.0,Tidak Sesuai,Ringan,Berat,7.0,Tidak Berisiko
+Padi,1.8,Latosol,8.1,316.5,28.4,75.0,Memadai,Unggul,5.0,Sesuai Anjuran,Sedang,Tidak Ada,9.0,Berisiko Gagal Panen
+Padi,0.95,Latosol,6.1,345.5,27.8,93.0,Terbatas,Rendah,7.0,Sesuai Anjuran,Tidak Ada,Ringan,12.0,Berisiko Gagal Panen
+Padi,1.6,Aluvial,6.2,,27.4,75.0,Tidak Ada,Unggul,3.0,Sesuai Anjuran,Sedang,Ringan,31.0,Tidak Berisiko
+Jagung,3.04,Aluvial,5.3,197.1,26.4,86.0,Terbatas,Sedang,1.0,Tidak Sesuai,Ringan,Ringan,25.0,Tidak Berisiko
+Cabai,2.37,Latosol,5.8,112.5,27.9,84.0,Tidak Ada,Unggul,0.0,Sesuai Anjuran,Ringan,Tidak Ada,2.0,Tidak Berisiko
+Cabai,0.45,Andosol,6.0,237.8,30.2,90.0,Memadai,Rendah,3.0,Tidak Menggunakan,Sedang,Sedang,20.0,Tidak Berisiko
+Cabai,3.19,Regosol,5.8,,27.0,63.0,Memadai,Unggul,4.0,Sesuai Anjuran,Ringan,Tidak Ada,22.0,Tidak Berisiko
+Kedelai,1.07,Andosol,7.5,233.2,24.9,86.0,Memadai,Unggul,2.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,14.0,Tidak Berisiko
+Kedelai,1.0,Andosol,5.5,248.0,32.5,75.0,Terbatas,Rendah,1.0,Tidak Menggunakan,Tidak Ada,,29.0,Tidak Berisiko
+Cabai,2.02,Grumosol,5.8,159.8,23.8,64.0,Terbatas,Sedang,2.0,Sesuai Anjuran,Ringan,Tidak Ada,9.0,Tidak Berisiko
+Cabai,0.77,Andosol,6.4,428.3,33.5,41.0,Terbatas,Unggul,2.0,Tidak Sesuai,,Sedang,4.0,Berisiko Gagal Panen
+Jagung,1.06,Aluvial,4.3,149.9,26.7,81.0,Tidak Ada,Sedang,5.0,Tidak Sesuai,Ringan,Ringan,1.0,Berisiko Gagal Panen
+Jagung,0.49,Andosol,6.4,276.5,23.9,59.0,Terbatas,Unggul,0.0,Sesuai Anjuran,Ringan,Sedang,38.0,Tidak Berisiko
+Padi,0.73,Aluvial,5.8,104.4,28.1,54.0,Tidak Ada,Unggul,5.0,Sesuai Anjuran,Tidak Ada,Berat,1.0,Berisiko Gagal Panen
+Padi,0.55,Andosol,6.7,247.0,27.0,72.0,Tidak Ada,Sedang,7.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,28.0,Tidak Berisiko
+Cabai,2.25,Regosol,5.8,130.2,33.4,88.0,Memadai,Sedang,4.0,Sesuai Anjuran,Tidak Ada,Sedang,11.0,Tidak Berisiko
+Bawang Merah,1.61,Grumosol,6.5,,27.7,86.0,Terbatas,Sedang,6.0,Tidak Menggunakan,Tidak Ada,Ringan,39.0,Tidak Berisiko
+Padi,3.99,Aluvial,,161.8,27.9,90.0,Terbatas,Unggul,4.0,Sesuai Anjuran,Berat,Ringan,40.0,Tidak Berisiko
+Kedelai,1.85,Latosol,7.0,251.3,29.2,79.0,Tidak Ada,Rendah,5.0,Tidak Sesuai,Sedang,Ringan,2.0,Berisiko Gagal Panen
+Cabai,0.84,Aluvial,4.5,245.9,27.5,79.0,Memadai,Unggul,1.0,Sesuai Anjuran,Sedang,Tidak Ada,26.0,Tidak Berisiko
+Jagung,2.14,Latosol,5.7,229.2,27.1,62.0,Memadai,Unggul,0.0,Sesuai Anjuran,Sedang,Berat,17.0,Tidak Berisiko
+Kedelai,1.22,Andosol,6.5,143.1,27.3,62.0,Tidak Ada,Sedang,7.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,20.0,Berisiko Gagal Panen
+Padi,1.03,Aluvial,6.1,191.5,23.6,91.0,Memadai,Unggul,6.0,Tidak Sesuai,Tidak Ada,Ringan,20.0,Tidak Berisiko
+Padi,0.87,Andosol,4.3,229.0,26.4,68.0,Memadai,Unggul,1.0,Tidak Sesuai,Berat,Ringan,14.0,Tidak Berisiko
+Jagung,1.89,Aluvial,6.0,277.7,26.1,92.0,Terbatas,Sedang,4.0,Sesuai Anjuran,Berat,Tidak Ada,2.0,Berisiko Gagal Panen
+Bawang Merah,1.83,Aluvial,5.6,309.6,29.9,76.0,Terbatas,Unggul,2.0,Sesuai Anjuran,Berat,Ringan,21.0,Berisiko Gagal Panen
+Bawang Merah,1.38,Grumosol,6.5,148.3,28.0,85.0,Memadai,Sedang,0.0,Sesuai Anjuran,Sedang,Tidak Ada,17.0,Tidak Berisiko
+Kedelai,0.39,,4.8,193.7,29.8,86.0,Terbatas,Sedang,1.0,Sesuai Anjuran,Tidak Ada,Berat,18.0,Tidak Berisiko
+Cabai,1.77,Grumosol,5.9,391.9,26.4,69.0,Memadai,Unggul,7.0,Tidak Menggunakan,Ringan,Ringan,,Berisiko Gagal Panen
+Cabai,1.15,Andosol,5.6,284.6,24.7,82.0,Memadai,Unggul,2.0,Tidak Sesuai,Ringan,Sedang,32.0,Tidak Berisiko
+Jagung,2.31,Andosol,7.6,295.4,24.1,73.0,Memadai,Unggul,7.0,Tidak Sesuai,Tidak Ada,Ringan,31.0,Tidak Berisiko
+Cabai,1.62,Grumosol,6.0,302.5,33.1,82.0,Memadai,Unggul,7.0,Sesuai Anjuran,Tidak Ada,Sedang,39.0,Tidak Berisiko
+Cabai,6.29,Aluvial,5.5,81.0,24.6,40.0,Memadai,Unggul,0.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,9.0,Tidak Berisiko
+Padi,1.56,Grumosol,6.1,197.1,29.0,60.0,Memadai,Sedang,5.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,3.0,Tidak Berisiko
+Bawang Merah,1.33,Latosol,6.8,262.0,33.0,92.0,Memadai,Unggul,7.0,Sesuai Anjuran,Sedang,Tidak Ada,1.0,Tidak Berisiko
+Jagung,0.99,,5.3,97.4,28.9,92.0,Memadai,Sedang,6.0,Sesuai Anjuran,Sedang,Ringan,39.0,Berisiko Gagal Panen
+Cabai,2.94,Regosol,6.7,184.2,26.7,58.0,Terbatas,Sedang,1.0,Tidak Menggunakan,Sedang,Tidak Ada,28.0,Tidak Berisiko
+Jagung,1.92,Regosol,6.6,176.7,31.6,82.0,Terbatas,Sedang,3.0,Tidak Menggunakan,Ringan,Tidak Ada,21.0,Tidak Berisiko
+Padi,1.19,Grumosol,7.5,182.4,29.1,66.0,Memadai,Unggul,3.0,Sesuai Anjuran,Ringan,Tidak Ada,38.0,Tidak Berisiko
+Kedelai,1.09,Regosol,6.6,384.5,24.5,58.0,Tidak Ada,Unggul,3.0,Sesuai Anjuran,Tidak Ada,Berat,6.0,Berisiko Gagal Panen
+Padi,0.62,Grumosol,6.2,256.8,24.8,85.0,Terbatas,Unggul,1.0,Tidak Menggunakan,Sedang,Berat,2.0,Tidak Berisiko
+Cabai,2.17,Grumosol,7.1,326.8,27.7,63.0,Terbatas,Sedang,3.0,Tidak Menggunakan,Tidak Ada,Sedang,38.0,Tidak Berisiko
+Bawang Merah,0.61,Andosol,6.0,201.1,27.6,85.0,Tidak Ada,Unggul,2.0,Sesuai Anjuran,Tidak Ada,Berat,4.0,Tidak Berisiko
+Bawang Merah,1.24,Andosol,,111.1,28.3,66.0,Terbatas,Unggul,5.0,Tidak Sesuai,Tidak Ada,Tidak Ada,26.0,Berisiko Gagal Panen
+Kedelai,,Aluvial,5.3,270.7,22.2,85.0,Memadai,Unggul,4.0,Sesuai Anjuran,Tidak Ada,Ringan,28.0,Tidak Berisiko
+Bawang Merah,2.12,Regosol,7.2,123.2,30.4,66.0,Memadai,Sedang,3.0,Tidak Sesuai,Ringan,Tidak Ada,5.0,Tidak Berisiko
+Padi,3.34,Andosol,6.7,153.6,25.0,40.0,Memadai,Unggul,2.0,Sesuai Anjuran,Tidak Ada,Sedang,7.0,Tidak Berisiko
+Bawang Merah,0.88,Andosol,5.1,484.0,,89.0,Tidak Ada,Sedang,6.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,17.0,Berisiko Gagal Panen
+Kedelai,1.14,Grumosol,6.3,237.6,26.9,47.0,Terbatas,,3.0,Sesuai Anjuran,Ringan,Ringan,29.0,Tidak Berisiko
+Jagung,1.19,Latosol,5.8,144.0,29.0,51.0,Memadai,Unggul,3.0,Sesuai Anjuran,Ringan,Sedang,33.0,Tidak Berisiko
+Cabai,2.7,Latosol,5.5,197.3,27.5,94.0,Memadai,Unggul,3.0,Tidak Sesuai,Tidak Ada,Ringan,31.0,Tidak Berisiko
+Jagung,3.02,Regosol,5.8,73.5,30.4,43.0,Tidak Ada,Sedang,5.0,Sesuai Anjuran,Berat,Tidak Ada,13.0,Berisiko Gagal Panen
+Jagung,0.53,Latosol,5.6,20.0,30.4,95.0,Memadai,Sedang,1.0,Tidak Sesuai,Sedang,Tidak Ada,3.0,Berisiko Gagal Panen
+Kedelai,4.11,Grumosol,6.9,227.7,26.4,42.0,Memadai,Unggul,5.0,Sesuai Anjuran,Tidak Ada,Ringan,31.0,Tidak Berisiko
+Kedelai,1.56,Regosol,7.2,274.0,30.9,73.0,Terbatas,Unggul,3.0,Tidak Menggunakan,Berat,Sedang,6.0,Tidak Berisiko
+Jagung,0.52,Aluvial,7.7,197.1,28.8,56.0,Memadai,Unggul,3.0,Sesuai Anjuran,Tidak Ada,Ringan,9.0,Tidak Berisiko
+Jagung,0.72,Latosol,5.3,305.9,25.9,46.0,Memadai,Unggul,0.0,Tidak Menggunakan,Ringan,Ringan,21.0,Tidak Berisiko
+Kedelai,2.32,Aluvial,4.3,190.3,32.3,92.0,Memadai,Sedang,0.0,Sesuai Anjuran,Sedang,Tidak Ada,4.0,Tidak Berisiko
+Bawang Merah,0.93,Latosol,4.5,43.3,26.5,70.0,Memadai,Rendah,4.0,Tidak Sesuai,Sedang,Sedang,26.0,Berisiko Gagal Panen
+Kedelai,,Latosol,6.8,169.5,30.7,77.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Ringan,Sedang,7.0,Tidak Berisiko
+Jagung,1.42,Grumosol,5.9,337.9,28.6,51.0,Memadai,Rendah,0.0,Sesuai Anjuran,Sedang,Sedang,35.0,Berisiko Gagal Panen
+Kedelai,4.44,Andosol,5.8,86.0,27.4,54.0,Memadai,Rendah,2.0,Sesuai Anjuran,Tidak Ada,Ringan,9.0,Tidak Berisiko
+Padi,1.19,Latosol,6.1,106.5,23.9,66.0,Memadai,Unggul,6.0,Tidak Menggunakan,Sedang,Berat,10.0,Berisiko Gagal Panen
+Jagung,0.8,Aluvial,6.2,285.6,27.2,44.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Sedang,Tidak Ada,30.0,Tidak Berisiko
+Bawang Merah,1.43,Regosol,7.1,149.1,29.8,75.0,Memadai,Rendah,0.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,8.0,Tidak Berisiko
+Bawang Merah,,Regosol,6.2,208.4,27.8,81.0,Terbatas,Unggul,5.0,Sesuai Anjuran,Ringan,Ringan,4.0,Tidak Berisiko
+Cabai,0.46,Andosol,6.4,100.3,29.4,90.0,Memadai,Sedang,5.0,Tidak Sesuai,Ringan,Berat,36.0,Berisiko Gagal Panen
+Cabai,0.23,Grumosol,5.3,184.1,29.4,75.0,Memadai,Sedang,6.0,Sesuai Anjuran,Berat,Ringan,37.0,Tidak Berisiko
+Cabai,2.14,Latosol,7.6,189.5,29.6,49.0,Memadai,Rendah,1.0,Sesuai Anjuran,Sedang,Tidak Ada,6.0,Tidak Berisiko
+Kedelai,2.14,Aluvial,6.1,76.6,27.3,,Tidak Ada,,0.0,Sesuai Anjuran,Sedang,Ringan,36.0,Berisiko Gagal Panen
+Kedelai,1.13,Andosol,5.3,173.0,20.8,54.0,Memadai,Unggul,3.0,Sesuai Anjuran,Sedang,Tidak Ada,9.0,Tidak Berisiko
+Kedelai,2.34,,6.8,222.9,30.8,57.0,Memadai,Sedang,4.0,Sesuai Anjuran,Ringan,Ringan,22.0,Tidak Berisiko
+Kedelai,0.46,Andosol,5.6,394.5,28.8,67.0,Memadai,Sedang,6.0,Sesuai Anjuran,Sedang,Tidak Ada,16.0,Berisiko Gagal Panen
+Padi,2.17,Regosol,6.6,130.0,23.2,89.0,Memadai,Unggul,3.0,Sesuai Anjuran,Ringan,Ringan,30.0,Tidak Berisiko
+Padi,1.16,Andosol,4.0,326.1,27.1,81.0,Tidak Ada,Sedang,0.0,Tidak Sesuai,Ringan,Ringan,15.0,Tidak Berisiko
+Bawang Merah,2.32,Andosol,6.9,,,46.0,Memadai,Unggul,2.0,Tidak Menggunakan,Berat,Tidak Ada,19.0,Tidak Berisiko
+Cabai,1.55,Regosol,6.3,152.5,31.3,42.0,Memadai,Unggul,7.0,Sesuai Anjuran,Berat,Ringan,22.0,Tidak Berisiko
+Jagung,4.55,,4.9,20.0,27.7,80.0,Memadai,Unggul,1.0,Sesuai Anjuran,Ringan,Ringan,35.0,Berisiko Gagal Panen
+Bawang Merah,0.43,Aluvial,,208.5,29.7,77.0,Memadai,Unggul,6.0,Sesuai Anjuran,Berat,Tidak Ada,38.0,Tidak Berisiko
+Padi,0.59,Regosol,5.8,92.8,29.2,84.0,Memadai,Sedang,3.0,Tidak Sesuai,Tidak Ada,Ringan,30.0,Tidak Berisiko
+Kedelai,1.2,Andosol,5.4,230.2,27.0,73.0,Memadai,Sedang,5.0,Tidak Menggunakan,Ringan,Tidak Ada,36.0,Tidak Berisiko
+Jagung,1.17,Grumosol,6.9,285.7,29.2,50.0,Memadai,Unggul,7.0,Sesuai Anjuran,Tidak Ada,Ringan,17.0,Tidak Berisiko
+Kedelai,0.64,Aluvial,8.0,157.7,26.4,85.0,Tidak Ada,Sedang,4.0,Sesuai Anjuran,Sedang,Sedang,27.0,Berisiko Gagal Panen
+Kedelai,0.48,Latosol,,378.9,31.4,91.0,Memadai,Unggul,2.0,Sesuai Anjuran,Ringan,Tidak Ada,,Tidak Berisiko
+Bawang Merah,2.39,Andosol,5.2,201.8,25.8,67.0,Tidak Ada,Unggul,5.0,Sesuai Anjuran,Tidak Ada,Sedang,25.0,Tidak Berisiko
+Jagung,0.77,Aluvial,6.7,335.5,25.9,84.0,Memadai,Sedang,4.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,10.0,Tidak Berisiko
+Bawang Merah,0.85,Grumosol,6.2,178.4,25.3,84.0,Tidak Ada,Sedang,4.0,Tidak Sesuai,Ringan,Ringan,25.0,Tidak Berisiko
+Kedelai,1.04,Latosol,5.4,150.2,30.6,70.0,Memadai,Rendah,5.0,Sesuai Anjuran,Tidak Ada,Sedang,40.0,Tidak Berisiko
+Kedelai,1.68,Grumosol,5.5,272.5,26.9,74.0,Terbatas,Sedang,0.0,Tidak Sesuai,Ringan,Sedang,7.0,Tidak Berisiko
+Padi,0.35,Latosol,6.5,225.1,23.6,55.0,Memadai,Sedang,3.0,Tidak Sesuai,Ringan,Ringan,18.0,Tidak Berisiko
+Jagung,2.03,Regosol,7.1,202.2,28.7,94.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,5.0,Tidak Berisiko
+Padi,1.2,Aluvial,7.2,167.8,26.3,55.0,Tidak Ada,Sedang,0.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,23.0,Tidak Berisiko
+Kedelai,2.35,Latosol,5.5,259.7,32.4,49.0,Memadai,Unggul,4.0,Tidak Sesuai,Sedang,Berat,38.0,Berisiko Gagal Panen
+Bawang Merah,2.27,Grumosol,4.5,95.2,29.5,71.0,Tidak Ada,Sedang,,Tidak Sesuai,Ringan,Berat,11.0,Berisiko Gagal Panen
+Kedelai,1.3,Andosol,7.6,147.3,30.8,95.0,Memadai,Sedang,0.0,Tidak Sesuai,Sedang,Tidak Ada,3.0,Tidak Berisiko
+Jagung,0.49,Regosol,6.2,,30.6,66.0,Terbatas,Sedang,3.0,Tidak Sesuai,Tidak Ada,Sedang,25.0,Berisiko Gagal Panen
+Cabai,3.69,Grumosol,6.1,379.2,33.2,86.0,Terbatas,Sedang,5.0,Sesuai Anjuran,Sedang,Sedang,31.0,Berisiko Gagal Panen
+Kedelai,0.96,Grumosol,5.2,183.8,25.9,63.0,Memadai,Unggul,3.0,Sesuai Anjuran,Ringan,Sedang,22.0,Tidak Berisiko
+Padi,0.55,Grumosol,6.1,135.3,29.0,90.0,Memadai,Unggul,2.0,Tidak Menggunakan,Sedang,Tidak Ada,40.0,Tidak Berisiko
+Cabai,1.96,Latosol,6.8,306.8,33.0,63.0,Memadai,Sedang,1.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,9.0,Tidak Berisiko
+Cabai,2.09,Andosol,5.8,228.9,28.9,42.0,Memadai,Unggul,0.0,Sesuai Anjuran,Tidak Ada,Berat,12.0,Tidak Berisiko
+Jagung,0.39,,6.1,352.2,31.1,47.0,Memadai,Rendah,7.0,Tidak Sesuai,Sedang,Ringan,37.0,Berisiko Gagal Panen
+Cabai,0.8,Grumosol,6.0,173.7,27.0,56.0,Memadai,Rendah,6.0,Sesuai Anjuran,Sedang,Ringan,2.0,Tidak Berisiko
+Padi,0.38,Regosol,19.06,238.0,28.1,71.0,Memadai,Sedang,0.0,Sesuai Anjuran,Sedang,Ringan,9.0,Tidak Berisiko
+Cabai,2.23,Aluvial,7.5,103.2,31.9,45.0,Memadai,Sedang,5.0,Sesuai Anjuran,Ringan,Sedang,24.0,Tidak Berisiko
+Padi,,Aluvial,6.8,229.6,28.9,40.0,Memadai,Sedang,6.0,Sesuai Anjuran,Sedang,Tidak Ada,4.0,Tidak Berisiko
+Kedelai,1.76,Grumosol,7.4,360.0,31.6,79.0,Tidak Ada,Sedang,4.0,Sesuai Anjuran,,Sedang,18.0,Berisiko Gagal Panen
+Padi,0.27,Andosol,6.2,232.9,27.3,45.0,Terbatas,Unggul,6.0,Sesuai Anjuran,Sedang,Sedang,7.0,Tidak Berisiko
+,0.82,Aluvial,7.1,359.4,29.4,71.0,Terbatas,Sedang,5.0,Sesuai Anjuran,Ringan,Tidak Ada,4.0,Tidak Berisiko
+Cabai,0.53,Grumosol,6.8,134.6,28.1,40.0,Terbatas,Unggul,0.0,Sesuai Anjuran,Sedang,Tidak Ada,34.0,Berisiko Gagal Panen
+Jagung,0.83,Aluvial,6.5,223.3,25.1,77.0,Terbatas,Sedang,3.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,33.0,Tidak Berisiko
+Cabai,2.17,Grumosol,6.0,245.6,24.8,56.0,Memadai,Rendah,6.0,Sesuai Anjuran,Tidak Ada,Sedang,13.0,Tidak Berisiko
+Bawang Merah,0.53,Andosol,6.4,270.1,27.6,83.0,Terbatas,Sedang,4.0,Sesuai Anjuran,Sedang,Ringan,40.0,Tidak Berisiko
+,0.13,Latosol,7.6,197.5,24.8,92.0,Memadai,Unggul,3.0,Sesuai Anjuran,Tidak Ada,Sedang,27.0,Tidak Berisiko
+Kedelai,1.11,Grumosol,6.0,225.7,28.9,85.0,Terbatas,Unggul,6.0,Tidak Sesuai,Sedang,Ringan,8.0,Tidak Berisiko
+Kedelai,1.41,Regosol,7.3,278.8,30.8,85.0,Terbatas,Sedang,1.0,Sesuai Anjuran,Ringan,Berat,6.0,Tidak Berisiko
+Kedelai,2.45,Regosol,6.1,102.1,23.8,64.0,Memadai,Sedang,3.0,Sesuai Anjuran,Sedang,Tidak Ada,16.0,Tidak Berisiko
+Kedelai,1.48,Latosol,6.2,,30.4,66.0,Memadai,Sedang,1.0,Sesuai Anjuran,Ringan,Berat,8.0,Tidak Berisiko
+Cabai,2.99,Grumosol,4.4,302.5,29.4,52.0,Tidak Ada,Unggul,2.0,Sesuai Anjuran,Ringan,Ringan,28.0,Berisiko Gagal Panen
+Cabai,1.2,,6.5,102.8,26.9,71.0,Memadai,Sedang,2.0,Tidak Sesuai,Sedang,Ringan,25.0,Berisiko Gagal Panen
+Bawang Merah,0.63,Regosol,8.5,42.4,26.0,78.0,Tidak Ada,Unggul,4.0,Sesuai Anjuran,Berat,Ringan,8.0,Berisiko Gagal Panen
+Kedelai,0.24,Latosol,6.7,403.6,27.1,61.0,Memadai,Sedang,3.0,Tidak Menggunakan,,Tidak Ada,12.0,Berisiko Gagal Panen
+Cabai,0.74,Regosol,5.9,256.6,32.1,72.0,Memadai,Sedang,7.0,Sesuai Anjuran,Berat,Ringan,35.0,Tidak Berisiko
+Padi,2.2,Aluvial,6.2,370.5,,59.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Berat,Tidak Ada,27.0,Berisiko Gagal Panen
+Padi,0.1,Regosol,7.3,102.8,25.2,56.0,Memadai,Unggul,6.0,Tidak Sesuai,Berat,Tidak Ada,,Tidak Berisiko
+Jagung,2.71,Latosol,6.6,204.2,29.8,49.0,Tidak Ada,Sedang,5.0,Sesuai Anjuran,Sedang,Sedang,34.0,Tidak Berisiko
+Bawang Merah,1.62,Regosol,5.7,115.9,27.5,74.0,Memadai,Unggul,4.0,Sesuai Anjuran,Ringan,Ringan,20.0,Tidak Berisiko
+Kedelai,3.64,Aluvial,5.4,331.2,30.7,57.0,Memadai,Rendah,1.0,Tidak Sesuai,Sedang,Tidak Ada,12.0,Tidak Berisiko
+Kedelai,0.86,Regosol,6.3,341.9,28.5,78.0,Memadai,Unggul,1.0,Tidak Sesuai,Sedang,Ringan,13.0,Berisiko Gagal Panen
+Bawang Merah,2.78,Regosol,6.8,151.4,30.1,67.0,Memadai,Unggul,6.0,Tidak Sesuai,Tidak Ada,Ringan,9.0,Tidak Berisiko
+Cabai,0.9,Regosol,5.2,339.7,30.4,92.0,Memadai,Rendah,3.0,Sesuai Anjuran,Tidak Ada,Sedang,,Tidak Berisiko
+Jagung,1.91,Aluvial,6.5,364.8,28.6,93.0,Terbatas,Unggul,3.0,Tidak Menggunakan,Tidak Ada,Ringan,14.0,Berisiko Gagal Panen
+Padi,1.09,Aluvial,5.3,185.1,28.9,71.0,Memadai,Sedang,6.0,Sesuai Anjuran,Sedang,Sedang,15.0,Tidak Berisiko
+Bawang Merah,1.32,Grumosol,5.4,285.0,29.0,43.0,Tidak Ada,Unggul,0.0,Tidak Sesuai,Sedang,Tidak Ada,31.0,Berisiko Gagal Panen
+Jagung,0.86,Latosol,6.8,411.8,30.4,82.0,Tidak Ada,Rendah,5.0,Sesuai Anjuran,Sedang,Tidak Ada,29.0,Berisiko Gagal Panen
+Cabai,1.14,Grumosol,6.6,249.1,,53.0,Memadai,Unggul,5.0,Tidak Sesuai,Berat,Ringan,5.0,Tidak Berisiko
+Bawang Merah,3.37,Aluvial,6.5,41.6,26.0,91.0,Terbatas,Sedang,4.0,Sesuai Anjuran,Ringan,Tidak Ada,10.0,Berisiko Gagal Panen
+Kedelai,2.17,Grumosol,5.5,128.2,28.9,70.0,Memadai,Unggul,1.0,Sesuai Anjuran,Berat,Sedang,24.0,Berisiko Gagal Panen
+Cabai,4.2,Regosol,7.7,330.2,26.7,69.0,Terbatas,Unggul,,Tidak Menggunakan,Tidak Ada,Tidak Ada,16.0,Tidak Berisiko
+Kedelai,1.58,Grumosol,6.8,247.7,29.3,42.0,Memadai,Sedang,2.0,Sesuai Anjuran,Sedang,Ringan,39.0,Tidak Berisiko
+Cabai,1.57,Aluvial,7.3,385.0,25.6,79.0,Terbatas,Sedang,0.0,,Tidak Ada,Ringan,11.0,Berisiko Gagal Panen
+Jagung,0.88,Regosol,6.3,258.9,30.4,84.0,Terbatas,Sedang,2.0,Sesuai Anjuran,Ringan,Sedang,10.0,Tidak Berisiko
+Cabai,1.05,Aluvial,5.4,251.3,28.6,79.0,Memadai,Unggul,6.0,Tidak Sesuai,Ringan,Tidak Ada,37.0,Tidak Berisiko
+Kedelai,0.43,Grumosol,6.8,213.8,31.0,42.0,Memadai,Unggul,0.0,Sesuai Anjuran,Berat,Ringan,16.0,Tidak Berisiko
+Cabai,1.26,Andosol,7.1,142.6,27.9,65.0,Memadai,Unggul,5.0,Sesuai Anjuran,Sedang,Sedang,13.0,Tidak Berisiko
+Cabai,,Andosol,6.6,167.6,28.1,45.0,Memadai,Sedang,0.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,40.0,Tidak Berisiko
+Jagung,0.73,Latosol,7.1,303.2,25.3,84.0,Memadai,Rendah,1.0,Sesuai Anjuran,Tidak Ada,Ringan,8.0,Tidak Berisiko
+Kedelai,1.1,Andosol,4.5,52.3,28.3,69.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Sedang,Ringan,13.0,Berisiko Gagal Panen
+Kedelai,0.65,Aluvial,5.0,246.5,25.2,67.0,Tidak Ada,Sedang,2.0,Sesuai Anjuran,Sedang,Ringan,28.0,Tidak Berisiko
+Kedelai,,Latosol,5.1,199.9,30.2,89.0,Tidak Ada,Rendah,2.0,Sesuai Anjuran,Berat,Tidak Ada,16.0,Tidak Berisiko
+Padi,1.55,Grumosol,6.1,160.6,25.1,64.0,Terbatas,Unggul,1.0,Sesuai Anjuran,Ringan,Tidak Ada,24.0,Tidak Berisiko
+Padi,0.65,Latosol,8.3,183.8,28.4,81.0,Memadai,Sedang,2.0,Tidak Menggunakan,Tidak Ada,Ringan,39.0,Tidak Berisiko
+Padi,0.94,Grumosol,6.8,89.6,27.1,80.0,Terbatas,Sedang,2.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,28.0,Berisiko Gagal Panen
+Padi,1.63,Grumosol,5.3,90.3,27.7,44.0,Terbatas,Sedang,2.0,Sesuai Anjuran,Ringan,Tidak Ada,27.0,Tidak Berisiko
+Bawang Merah,1.1,Grumosol,5.4,89.5,30.0,81.0,Memadai,Sedang,4.0,Sesuai Anjuran,Sedang,Tidak Ada,7.0,Tidak Berisiko
+Cabai,1.42,Latosol,6.3,213.9,28.0,72.0,Terbatas,Unggul,5.0,Tidak Sesuai,Berat,Ringan,37.0,Tidak Berisiko
+Cabai,0.1,Grumosol,7.4,273.6,26.5,62.0,Memadai,Sedang,5.0,Sesuai Anjuran,Sedang,Tidak Ada,18.0,Tidak Berisiko
+Padi,1.48,Regosol,6.5,143.5,28.1,45.0,Terbatas,Unggul,7.0,,Tidak Ada,Tidak Ada,17.0,Tidak Berisiko
+Cabai,3.28,Grumosol,7.0,110.1,29.0,72.0,Memadai,Sedang,0.0,Tidak Menggunakan,Sedang,Tidak Ada,34.0,Berisiko Gagal Panen
+Bawang Merah,1.85,Andosol,5.9,284.0,29.0,66.0,Memadai,Rendah,5.0,Tidak Sesuai,Sedang,Sedang,18.0,Tidak Berisiko
+Jagung,1.45,Andosol,5.8,141.1,27.5,77.0,Terbatas,Rendah,2.0,Sesuai Anjuran,Ringan,Tidak Ada,8.0,Tidak Berisiko
+Bawang Merah,1.57,Latosol,7.2,348.0,31.1,66.0,Memadai,Unggul,3.0,Sesuai Anjuran,Sedang,Sedang,4.0,Berisiko Gagal Panen
+Kedelai,0.12,Latosol,6.9,253.0,27.5,40.0,Tidak Ada,Sedang,0.0,Sesuai Anjuran,Sedang,Sedang,,Berisiko Gagal Panen
+Jagung,2.4,Latosol,7.0,179.9,27.6,76.0,Terbatas,Sedang,7.0,Tidak Menggunakan,Ringan,Tidak Ada,1.0,Tidak Berisiko
+Kedelai,0.9,Aluvial,6.4,260.9,22.6,50.0,Memadai,Unggul,4.0,Sesuai Anjuran,Berat,Sedang,32.0,Tidak Berisiko
+Bawang Merah,2.57,Latosol,6.4,118.7,22.6,69.0,Memadai,Sedang,4.0,Sesuai Anjuran,Sedang,Ringan,16.0,Berisiko Gagal Panen
+Kedelai,0.9,Latosol,5.0,274.7,29.9,71.0,Memadai,Unggul,2.0,,Berat,Sedang,6.0,Tidak Berisiko
+Bawang Merah,7.25,Grumosol,,105.4,30.1,93.0,Memadai,Unggul,2.0,Sesuai Anjuran,Tidak Ada,Ringan,22.0,Tidak Berisiko
+Cabai,0.73,Latosol,6.0,113.3,24.5,65.0,Memadai,Sedang,1.0,Tidak Menggunakan,Ringan,Tidak Ada,17.0,Tidak Berisiko
+Bawang Merah,2.0,Latosol,6.9,212.7,29.7,92.0,Terbatas,Sedang,6.0,Tidak Menggunakan,Berat,Sedang,40.0,Tidak Berisiko
+Kedelai,1.21,Latosol,7.0,324.2,24.9,60.0,Terbatas,Sedang,3.0,Sesuai Anjuran,Ringan,Berat,19.0,Berisiko Gagal Panen
+Padi,0.64,Andosol,7.4,91.0,,85.0,Memadai,Unggul,0.0,Tidak Sesuai,Ringan,Sedang,27.0,Tidak Berisiko
+Bawang Merah,0.76,Latosol,5.2,259.8,28.9,83.0,Tidak Ada,Sedang,7.0,Sesuai Anjuran,Ringan,Tidak Ada,23.0,Tidak Berisiko
+Jagung,,Regosol,6.0,186.9,30.3,44.0,Terbatas,Sedang,1.0,Sesuai Anjuran,Ringan,Tidak Ada,35.0,Tidak Berisiko
+Cabai,1.22,Regosol,6.9,226.3,29.9,58.0,Memadai,Sedang,3.0,Tidak Sesuai,Ringan,Tidak Ada,11.0,Tidak Berisiko
+Kedelai,0.4,Regosol,6.6,369.1,27.7,41.0,Tidak Ada,Sedang,7.0,Sesuai Anjuran,Ringan,Berat,8.0,Berisiko Gagal Panen
+Kedelai,1.54,Latosol,5.7,123.4,26.5,69.0,Memadai,Sedang,4.0,Sesuai Anjuran,Sedang,Tidak Ada,1.0,Berisiko Gagal Panen
+Padi,0.81,Aluvial,6.6,202.3,26.4,66.0,Memadai,Unggul,5.0,Tidak Sesuai,Sedang,Tidak Ada,5.0,Tidak Berisiko
+Cabai,1.2,Andosol,6.0,185.3,28.2,87.0,Terbatas,Unggul,7.0,Sesuai Anjuran,Sedang,,2.0,Tidak Berisiko
+Padi,1.05,Latosol,5.9,159.8,28.4,87.0,Terbatas,Sedang,0.0,Tidak Sesuai,Sedang,Tidak Ada,1.0,Berisiko Gagal Panen
+Kedelai,1.2,Latosol,6.0,352.1,26.4,51.0,Memadai,Unggul,,Sesuai Anjuran,Sedang,Ringan,30.0,Tidak Berisiko
+Kedelai,2.77,Regosol,6.8,365.9,33.1,76.0,Terbatas,Sedang,7.0,Sesuai Anjuran,Ringan,Tidak Ada,28.0,Berisiko Gagal Panen
+Kedelai,0.62,Aluvial,6.0,204.6,30.9,81.0,Memadai,Sedang,7.0,Sesuai Anjuran,Sedang,Ringan,26.0,Tidak Berisiko
+,2.35,Grumosol,7.0,383.8,23.0,47.0,Terbatas,Unggul,5.0,Sesuai Anjuran,Sedang,Tidak Ada,17.0,Berisiko Gagal Panen
+Bawang Merah,1.38,Grumosol,6.4,162.1,28.4,62.0,Memadai,Sedang,5.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,14.0,Tidak Berisiko
+Cabai,4.06,Aluvial,5.2,130.6,29.7,80.0,Tidak Ada,Unggul,6.0,Sesuai Anjuran,Ringan,Sedang,38.0,Tidak Berisiko
+Padi,,Andosol,3.7,275.6,30.0,93.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Tidak Ada,Ringan,35.0,Tidak Berisiko
+Kedelai,1.62,Latosol,7.8,150.4,30.6,71.0,,Unggul,6.0,Sesuai Anjuran,Sedang,Berat,34.0,Tidak Berisiko
+Jagung,0.78,Grumosol,7.8,172.9,29.9,93.0,Memadai,Sedang,1.0,Sesuai Anjuran,Tidak Ada,Sedang,4.0,Tidak Berisiko
+Padi,0.49,Grumosol,5.8,225.3,,67.0,Memadai,Unggul,7.0,Tidak Sesuai,Tidak Ada,Ringan,30.0,Tidak Berisiko
+Cabai,1.49,Regosol,5.5,212.4,29.3,59.0,Tidak Ada,Rendah,4.0,Sesuai Anjuran,Sedang,Tidak Ada,16.0,Berisiko Gagal Panen
+Kedelai,1.26,Latosol,7.1,318.7,27.2,42.0,Tidak Ada,Unggul,3.0,Tidak Menggunakan,Ringan,,24.0,Berisiko Gagal Panen
+Cabai,0.37,Aluvial,7.6,97.5,22.3,65.0,Memadai,,6.0,Tidak Sesuai,Tidak Ada,Ringan,32.0,Berisiko Gagal Panen
+Kedelai,2.2,Aluvial,5.3,298.6,25.3,40.0,Terbatas,Unggul,0.0,Tidak Sesuai,Berat,Sedang,16.0,Berisiko Gagal Panen
+Bawang Merah,0.4,Aluvial,4.9,217.0,29.1,56.0,Memadai,Unggul,2.0,Sesuai Anjuran,Ringan,Tidak Ada,14.0,Tidak Berisiko
+Jagung,2.35,Andosol,7.6,294.1,30.7,94.0,Memadai,Sedang,5.0,Tidak Sesuai,Ringan,Ringan,17.0,Tidak Berisiko
+Kedelai,0.85,Andosol,6.5,251.8,24.6,71.0,Memadai,Unggul,1.0,Tidak Sesuai,Berat,Tidak Ada,13.0,Tidak Berisiko
+Cabai,4.07,Latosol,5.4,178.6,24.5,46.0,Terbatas,Unggul,5.0,Sesuai Anjuran,Ringan,Tidak Ada,18.0,Tidak Berisiko
+,0.62,Andosol,5.2,53.6,23.3,71.0,Memadai,Unggul,1.0,Tidak Sesuai,Berat,Ringan,,Berisiko Gagal Panen
+Bawang Merah,1.89,Latosol,5.3,201.5,28.5,88.0,Terbatas,Sedang,6.0,Sesuai Anjuran,Tidak Ada,Ringan,12.0,Tidak Berisiko
+Jagung,0.52,Grumosol,7.0,280.2,29.0,70.0,Tidak Ada,Unggul,7.0,Sesuai Anjuran,Berat,Ringan,21.0,Berisiko Gagal Panen
+Cabai,0.27,Aluvial,5.6,223.2,26.4,40.0,Tidak Ada,Sedang,5.0,Tidak Sesuai,Sedang,Sedang,10.0,Berisiko Gagal Panen
+,3.0,Latosol,6.8,271.7,30.7,71.0,Memadai,Sedang,5.0,Tidak Menggunakan,Ringan,Tidak Ada,19.0,Tidak Berisiko
+Padi,0.76,Grumosol,6.7,311.4,30.9,52.0,Memadai,Sedang,5.0,Tidak Menggunakan,Ringan,Sedang,6.0,Tidak Berisiko
+Kedelai,1.18,Regosol,5.9,293.2,29.8,60.0,Memadai,Rendah,3.0,Sesuai Anjuran,Tidak Ada,Berat,29.0,Tidak Berisiko
+Kedelai,1.27,Latosol,6.6,244.4,28.1,47.0,Memadai,Unggul,0.0,,Tidak Ada,Ringan,1.0,Tidak Berisiko
+Bawang Merah,,Regosol,7.8,199.1,31.0,72.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Tidak Ada,Tidak Ada,38.0,Tidak Berisiko
+Jagung,0.1,,7.4,265.7,27.3,80.0,Terbatas,Sedang,5.0,Tidak Menggunakan,Ringan,Berat,3.0,Tidak Berisiko
+Cabai,6.29,Aluvial,5.5,81.0,24.6,40.0,Memadai,Unggul,0.0,Tidak Menggunakan,Tidak Ada,Tidak Ada,9.0,Tidak Berisiko
+Bawang Merah,2.63,Latosol,5.9,,33.1,48.0,Tidak Ada,Sedang,2.0,Tidak Sesuai,Berat,Sedang,23.0,Tidak Berisiko
+Bawang Merah,1.76,Latosol,7.2,240.0,26.8,52.0,Memadai,Sedang,1.0,Sesuai Anjuran,Tidak Ada,Ringan,15.0,Tidak Berisiko
+Bawang Merah,1.78,Grumosol,6.8,249.8,28.8,78.0,Memadai,Sedang,7.0,Tidak Sesuai,Sedang,Tidak Ada,26.0,Tidak Berisiko
+Bawang Merah,0.53,Andosol,6.4,270.1,27.6,83.0,Terbatas,Sedang,4.0,Sesuai Anjuran,Sedang,Ringan,40.0,Tidak Berisiko
+Padi,2.17,Regosol,6.6,130.0,23.2,89.0,Memadai,Unggul,3.0,Sesuai Anjuran,Ringan,Ringan,30.0,Tidak Berisiko
+Kedelai,1.51,Latosol,7.3,194.3,26.0,84.0,Tidak Ada,Rendah,3.0,Sesuai Anjuran,Sedang,Ringan,33.0,Berisiko Gagal Panen
+Cabai,0.16,Grumosol,5.7,299.3,28.0,85.0,Tidak Ada,Sedang,1.0,Tidak Menggunakan,Sedang,Tidak Ada,17.0,Berisiko Gagal Panen
+Kedelai,1.01,Regosol,5.2,49.8,31.7,45.0,Terbatas,Unggul,3.0,Sesuai Anjuran,Sedang,Ringan,24.0,Berisiko Gagal Panen
+Padi,0.57,Regosol,6.0,437.7,30.0,64.0,Terbatas,Unggul,3.0,Tidak Sesuai,Berat,Sedang,10.0,Berisiko Gagal Panen
+Padi,1.35,Regosol,7.5,66.1,27.3,87.0,Memadai,Unggul,3.0,Tidak Sesuai,Sedang,Ringan,4.0,Berisiko Gagal Panen
